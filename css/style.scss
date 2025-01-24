@@ -743,7 +743,7 @@ a {
     &:before {
       position: absolute;
       content: "";
-      background: url(img/dec_footer.webp) center center no-repeat;
+      background: url(../img/dec_footer.webp) center center no-repeat;
       background-size: 253px 123px;
       width: 253px;
       height: 123px;
@@ -1315,6 +1315,7 @@ section.flow {
                 font-size: 22px;
                 line-height: 30px;
                 background-color: #EFECE2;
+                border-bottom: 1px solid #5C5D3C;
                 padding: 15px;
                 @media (min-width: 768px) {
                   font-size: 26px;
