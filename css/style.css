@@ -772,7 +772,7 @@ a {
   #footer .footerin:before {
     position: absolute;
     content: "";
-    background: url(img/dec_footer.webp) center center no-repeat;
+    background: url(../img/dec_footer.webp) center center no-repeat;
     background-size: auto;
     width: 506px;
     height: 246px;
